@@ -6,7 +6,7 @@ Simple Python/HTML Text Cipher
 About
 -----
 
-This is a simple python script put together, which takes text entered into an
+This is a simple python script I put together, which takes text entered into an
 HTML form and converts it using Rot13. Useful for hiding messages to later be
 unencrypted.
 
