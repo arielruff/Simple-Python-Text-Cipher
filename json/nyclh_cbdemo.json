@@ -1,4 +1,3 @@
-jsonCallback(
 [
   {
     "1990": "37021",
@@ -673,4 +672,3 @@ jsonCallback(
     "community_board": "1"
   }
 ]
-)
